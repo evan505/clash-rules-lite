@@ -1,0 +1,5 @@
+payload:
+  - '+.openai.com'
+  - '+.auth0.com'
+  - '+.sentry.io'
+  

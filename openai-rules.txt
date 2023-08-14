@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,sentry.io
+  
